@@ -1,0 +1,9 @@
+#spring:
+#  cloud:
+#    consul:
+#      host: http://
+#      port: 8500
+#      discovery:
+#        instance-id: id
+#  application:
+#    name:
